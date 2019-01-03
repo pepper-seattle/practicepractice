@@ -1,10 +1,10 @@
-##PracticePractice
+## PracticePractice
 
 Oh hello! I don't know what it is you're doing here, but welcome I suppose. Here you will find a place where I tinker with various Javascript/React things.
 
 Anyway, if you feel the need to do something with this code then here's how you run this ship:
 
-###Running the ship
+### Running the ship
 1. Clone down this repo from github
 2. In a terminal run `npm install` to install dependencies
 3. To do other things like actually run the app checkout the scripts info from the base of this app (create-react-app) below:
