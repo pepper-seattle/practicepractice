@@ -1,0 +1,23 @@
+.Nav-list {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.Nav-options {
+  display: flex;
+  flex-direction: row;
+  color: #fff;
+  font-size: 32px;
+  font-weight: bold;
+  margin-right: 16px;
+  text-decoration: none;
+}
+
+.Nav-root {
+  background-color: #2C3646;
+  display: flex;
+  width: 100%;
+  padding: 8px 16px;
+  margin-bottom: 10px;
+}

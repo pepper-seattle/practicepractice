@@ -1,0 +1,43 @@
+.Photo-root {
+  flex-basis: calc(33.333% - 4rem);
+  flex-grow: 1;
+  flex-shrink: 0;
+  margin: 0 2rem 2rem 2rem;
+  padding: 2rem;
+  border: 1px solid lightgray;
+  background: #fff;
+  box-shadow: 0 0 0 5px rgba(0,0,0,0.03);
+  position: relative;
+}
+
+.Photo-wrapper {
+  position: relative;
+}
+
+.Photo-image {
+  width: calc(100% + 4rem);
+  margin-left: -2rem;
+  margin-top: -2rem;
+  max-width: none;
+}
+
+.Photo-control-buttons {
+  display: flex;
+  justify-content: space-between;
+}
+    
+button, 
+.Photo-button {
+  background: none;
+  border: 1px solid #125688;
+  color: #125688;
+  cursor: pointer;
+  display: inline-block;
+  flex-basis: 48%;
+  font-size: 15px;
+  line-height: 2;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.2s;
+}

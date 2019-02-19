@@ -1,0 +1,19 @@
+.ToDo-frame {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  height: 400px;
+  border-radius: 2px;
+  box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.1);
+  overflow: hidden;
+  background: #fff;
+  font-family: "Open Sans, Helvetica, sans-serif";
+}
+
+.ToDo-root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* This needs to be moved to the nav when nav gets css file */
+  margin-top: 20px;
+}

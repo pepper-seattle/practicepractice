@@ -1,0 +1,10 @@
+.PhotoGrid-root {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  height:auto;
+	min-height: 100vh;
+  margin: 0 auto;
+}
+

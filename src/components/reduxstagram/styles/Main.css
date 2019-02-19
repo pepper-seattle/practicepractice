@@ -1,0 +1,15 @@
+.Main-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.Main-root {
+  background: #f4f4f4;
+  color: #125688;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: 0;
+}
